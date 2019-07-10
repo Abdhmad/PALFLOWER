@@ -1,0 +1,55 @@
+body{
+	margin:0px;
+}
+.titlelogo{
+	color: #ef5d5e;
+	font-family: open_sanslight, sans-serif;
+	padding-left: 5px;
+}
+.editlist{
+	color: white;
+	font-family: sans-serif;
+	padding-left: 30px;
+}
+.nav-item a:hover{
+	background-color: #ef5d5e;
+}
+.editsearch{
+	border:1px solid black;
+	border-radius: 70px;
+}.imgtext{
+	width: 500px;
+	height: 700px;
+	padding-top: 400px;
+}
+.carouseledit{
+	padding-bottom:200px;
+	font-size: 30px;
+}
+#changespace{
+	padding-top: 50px;
+}
+#buttonchange{
+	margin-left: 93px; 
+	border-radius: 15px;
+	
+}
+#chargecard{
+	margin-right: 30px;
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+#footerchange{
+	text-align: center;
+	background-color: #343A40;
+	color: white;
+	padding-top: 50px;
+	padding-bottom: 70px;
+	width: 100%
+}
+#footerchange img{
+	margin-top: 20px;
+	margin-left: 20px;
+}
